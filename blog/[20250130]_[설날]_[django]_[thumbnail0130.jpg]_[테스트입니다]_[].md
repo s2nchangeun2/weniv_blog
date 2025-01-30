@@ -5,18 +5,18 @@
 
 ![개발 이미지](img/thumbnail0130.jpg)
 
-'''python
+```python
 print('hello')
-'''
+```
 
-'''py
+```py
 print('hello')
-'''
+```
 
-'''javascript
+```javascript
 console.log('hello')
-'''
+```
 
-'''js
+```js
 console.log('hello')
-'''
+```
