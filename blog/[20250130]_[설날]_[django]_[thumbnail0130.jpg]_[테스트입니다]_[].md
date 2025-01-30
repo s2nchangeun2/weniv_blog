@@ -20,3 +20,14 @@ console.log('hello')
 ```js
 console.log('hello')
 ```
+
+CSS 코드:
+```css
+body {
+    background-color: lightblue;
+}
+p {
+    color: navy;
+    font-size: 20px;
+}
+```
